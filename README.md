@@ -4,7 +4,7 @@
 
 # Who is "Crazy Monster Developer"?
 
-I revere the aesthetics of "Develop"—
-A word shared by both system development and photographic development.
-
+I revere the aesthetics of "Develop"—<br>
+A word shared by both system development and photographic development.<br>
+<br>
 I'm a "Crazy Monster Developer".
